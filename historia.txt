@@ -3,11 +3,8 @@ Mi nombre es Anita Hernández.
 Tengo 15 años y estudio en Fe y Alegría.
 
 Master 1
-<<<<<<< HEAD
 Experimento 1 
 Experimento 2
-=======
 Master 2
->>>>>>> b30cc56... Master 2
 
 Mañana nos enfocaremos en su vida laboral.
