@@ -46,3 +46,12 @@ html {
 #post {
     padding: 1em;
 }
+#footer {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+#footer span {
+    float: right;
+    font-size: 12px;
+}
